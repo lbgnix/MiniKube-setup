@@ -1,7 +1,6 @@
-# MiniKube-setup
-Setup and Configure Minikube on a Virtual Machine
-In this Practical you will setup and configure MiniKube on an Ubuntu VM. MiniKube is a tool that makes it easy to run Kubernetes locally and runs a single-node Kubernetes cluster.
-
+------------------------------------
+    Minikube Command
+------------------------------------
 
 CMD to setup Minikube on ubuntu System :- 
 
