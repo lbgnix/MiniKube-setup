@@ -1,4 +1,9 @@
 # MiniKube-setup
+minikube is local Kubernetes, focusing on making it easy to learn and develop for Kubernetes.
+
+All you need is Docker (or similarly compatible) container or a Virtual Machine environment, and Kubernetes is a single command away: minikube start
+
+Lets follow the step by step process to setup minikube on local setup- 
 Setup and Configure Minikube on a Virtual Machine
 In this Practical you will setup and configure MiniKube on an Ubuntu VM. MiniKube is a tool that makes it easy to run Kubernetes locally and runs a single-node Kubernetes cluster.
 
